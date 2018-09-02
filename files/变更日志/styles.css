@@ -1,0 +1,151 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:854px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u27512_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:45px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u27512 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:844px;
+  height:45px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u27513 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:840px;
+  word-wrap:break-word;
+}
+#u27514 {
+  position:absolute;
+  left:10px;
+  top:55px;
+  width:849px;
+  height:260px;
+}
+#u27515_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:58px;
+}
+#u27515 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:58px;
+  font-size:14px;
+  text-align:left;
+}
+#u27516 {
+  position:absolute;
+  left:2px;
+  top:9px;
+  width:840px;
+  word-wrap:break-word;
+}
+#u27517_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:86px;
+}
+#u27517 {
+  position:absolute;
+  left:0px;
+  top:58px;
+  width:844px;
+  height:86px;
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+#u27518 {
+  position:absolute;
+  left:2px;
+  top:13px;
+  width:840px;
+  word-wrap:break-word;
+}
+#u27519_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:60px;
+}
+#u27519 {
+  position:absolute;
+  left:0px;
+  top:144px;
+  width:844px;
+  height:60px;
+  font-size:14px;
+  text-align:left;
+}
+#u27520 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:840px;
+  word-wrap:break-word;
+}
+#u27521_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:844px;
+  height:51px;
+}
+#u27521 {
+  position:absolute;
+  left:0px;
+  top:204px;
+  width:844px;
+  height:51px;
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+#u27522 {
+  position:absolute;
+  left:2px;
+  top:16px;
+  width:840px;
+  word-wrap:break-word;
+}
